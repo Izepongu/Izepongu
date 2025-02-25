@@ -9,7 +9,7 @@
 
 ###
 
-<h2 align="left">Linguagens que utilizo / estudo</h2>
+<h2 align="left">Tecnologias que uso / estudo</h2>
 
 ###
 
@@ -21,6 +21,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
+
+###
+
+<h2 align="left">Minhas redes sociais</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/gustavo-broering-izepon-526abb224/?trk=opento_sprofile_topcard" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
